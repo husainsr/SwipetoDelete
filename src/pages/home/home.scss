@@ -1,0 +1,24 @@
+.ios, .md {
+
+	page-home {
+
+    ion-item-sliding.active-slide ion-item-options[side=left] {
+      visibility: visible;
+      }
+
+		// ion-item-sliding {
+		// 	background-color: #f6f6f6;
+		// 	width: 94%;
+		// 	margin-left: 3%;
+		// 	margin-top: 15px;
+		//}
+
+		ion-item {
+      height: 50px;
+      margin: 5px;
+			background-color: rgb(199, 190, 190);
+		}
+
+	}
+
+}
